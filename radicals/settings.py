@@ -53,6 +53,7 @@ INSTALLED_APPS = [
     'back_office.invoices',
     'back_office.customers',
     'back_office.products',
+    'back_office.supplier_login',
     'back_office.back_office_home_page',
 
 
